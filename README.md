@@ -5,7 +5,6 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquejm98&locale=pt-BR&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquejm98&locale=pt-BR&layout=compact&lang_count=16&theme=dark">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=henriquejm98&locale=pt-BR&theme=dark">
 </div>
 
 <h2>Meus principais conhecimentos 📝</h2>
